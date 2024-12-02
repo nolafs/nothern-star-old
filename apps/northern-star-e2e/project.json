@@ -1,0 +1,9 @@
+{
+  "name": "northern-star-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/northern-star-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["northern-star"],
+  "// targets": "to see all targets run: nx show project northern-star-e2e --web",
+  "targets": {}
+}
